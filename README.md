@@ -1,3 +1,3 @@
 # newrepository
 <br>
-author-Sripadh Reddy
+author-Sripadh Reddy (my name)
